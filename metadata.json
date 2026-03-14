@@ -1,0 +1,5 @@
+{
+  "name": "Excel Payout Processor",
+  "description": "Upload Stripe payout Excel files to generate monthly reports with automated totals.",
+  "requestFramePermissions": []
+}
